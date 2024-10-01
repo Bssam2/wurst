@@ -1,2 +1,2 @@
-# wurst
+# Mein ersten wurst-Projekt!
 python 
